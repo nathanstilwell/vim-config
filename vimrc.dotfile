@@ -27,12 +27,6 @@ call plug#end()
 "
 "   Dracula
 "
-"  Setup instructions:
-"    > cd ~/.vim/pack/themes/start/
-"    > git clone git@github.com:dracula/vim.git dracula
-"
-"  For Dracula pro - download and follow theme instructions
-"
 packadd! dracula_pro
 syntax enable
 let g:dracula_colorterm = 0
